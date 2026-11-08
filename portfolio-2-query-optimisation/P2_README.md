@@ -34,7 +34,7 @@ LIMIT 20;
 | 301 | 2026-12-01T09:00:00+00:00 | 201 | CLN-001 | 101 | PAT-001 |
 | 302 | 2026-12-02T10:30:00+00:00 | 201 | CLN-001 | 101 | PAT-001 |
 
-## 3. Count lab_results records for each appointment_id (up to 20 groups).
+## 3. Count lab_results records for each appointment_id (up to 20 groups)
 
 ```sql
 SELECT "appointment_id", count(*) AS record_count
