@@ -1,4 +1,4 @@
-# Portfolio 1 — Database Design and Modelling
+# Portfolio 1: Database Design and Modelling
 
 I organised the data into patients, clinicians, appointments, lab_results. The design document explains the fields, keys, relationships and business rules. The normalisation document shows the sample tables at 1NF, 2NF and 3NF.
 
