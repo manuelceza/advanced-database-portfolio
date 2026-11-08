@@ -1,4 +1,4 @@
--- Fictional sample records for Ardeliah Clinical System.
+Fictional sample records for Ardeliah Clinical System.
 BEGIN;
 SET LOCAL standard_conforming_strings = on;
 INSERT INTO portfolio."patients" ("patient_id", "patient_code", "birth_date", "active") VALUES (101, 'PAT-001', '1985-04-12', TRUE);
