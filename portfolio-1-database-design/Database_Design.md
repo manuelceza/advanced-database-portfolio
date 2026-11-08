@@ -1,4 +1,4 @@
-# Ardeliah Clinical System — database design
+# Ardeliah Clinical System database design
 
 My case study records patients, clinicians, appointments, lab_results.
 
