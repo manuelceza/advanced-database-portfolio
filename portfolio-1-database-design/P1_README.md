@@ -19,9 +19,9 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 - [ER diagram](Olawuyi_Emmanuel_370192849_P1_ERDiagram.md)
 - [Normalisation](Olawuyi_Emmanuel_370192849_P1_Normalisation.md)
 - [Schema](Olawuyi_Emmanuel_370192849_P1_Schema.sql)
-- [Sample data](Olawuyi_Emmanuel_370192849_P1_SampleData.sql)
+- [Sample data](SampleData.sql)
 - [Constraint tests](ConstraintTests.sql)
-- [Table and constraint evidence](screenshots/Olawuyi_Emmanuel_370192849_P1_DatabaseResults.png)
+- [Table and constraint evidence](screenshots/DatabaseResults.png)
 
 ## Run the SQL
 
