@@ -1,4 +1,4 @@
-# Portfolio 3 — Transactions and Concurrency
+# Portfolio 3: Transactions and Concurrency
 
 I used a temporary counter (p3_processed_count) on appointments, record {"appointment_id":301}, to compare transaction behaviour without changing the original business fields. The helper is used only for this exercise.
 
@@ -27,7 +27,7 @@ Both sessions first read 1. Without locking, both wrote 2 and one increment was 
 
 Run the Portfolio 1 schema and sample data in a fresh database, then P3_Transactions.sql. Open two psql terminals connected to that same database. Follow steps 1–9 across SessionA.sql and SessionB.sql; run step 5 in Session A outside a transaction.
 
-- [Transactions](P3_Transactions.sql)
+- [Transactions](Transactions.sql)
 - [Session A](P3_SessionA.sql)
 - [Session B](P3_SessionB.sql)
 - [Commit and rollback](screenshots/P3_CommitRollback.png)
