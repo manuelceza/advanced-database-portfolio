@@ -1,6 +1,6 @@
 # Ardeliah Clinical System — normalisation
 
-The example uses the saved sample records. The full set of fields is in the design and schema.
+The example uses the saved sample records. The full set of fields is in the design and schema
 
 ## Starting grouped records
 
@@ -65,4 +65,4 @@ The entity keys determine their own descriptions. Related records keep foreign k
 - appointments: (appointment_id) → patient_id, clinician_id, starts_at, status, reason
 - lab_results: (result_id) → appointment_id, test_code, recorded_on, result_value, abnormal
 
-Joining the decomposed sample tables reproduces the original 1 example rows. The design assumes the declared keys describe the relevant business dependencies.
+Joining the decomposed sample tables reproduces the original 1 example rows. The design assumes the declared keys describe the relevant business dependencies
