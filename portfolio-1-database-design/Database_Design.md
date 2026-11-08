@@ -75,7 +75,7 @@ My case study records patients, clinicians, appointments, lab_results.
 - A clinician may have at most one booked appointment at a given start time; enforce with a partial unique index on clinician_id and starts_at where status is booked.
 - Every appointment must reference an existing patient.
 - Every appointment must reference an existing clinician.
-- Every laboratory result must reference an existing appointment.
+- Every laboratory result must reference an existing appointments.
 
 ## Assumptions
 
