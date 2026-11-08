@@ -16,7 +16,7 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 ## Files
 
 - [Design](P1_Design.md)
-- [ER diagram](ERDiagram.md)
+- [ER diagram](ERDiagram.png)
 - [Normalisation](P1_Normalisation.md)
 - [Schema](Schema.sql)
 - [Sample data](SampleData.sql)
