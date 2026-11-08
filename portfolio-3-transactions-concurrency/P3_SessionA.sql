@@ -1,5 +1,3 @@
--- Use two psql terminals connected to the same exercise database.
--- Follow the numbered order across Session A and Session B.
 
 -- 1. Session A: read 1.
 BEGIN ISOLATION LEVEL READ COMMITTED;
