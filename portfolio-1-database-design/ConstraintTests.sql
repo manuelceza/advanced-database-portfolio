@@ -1,5 +1,4 @@
--- Run these deliberately invalid statements one at a time, outside a transaction.
--- Each should fail at the named constraint; the sample rows should remain unchanged.
+
 
 -- 1. patients pk duplicate. Expected: pk_patients, SQLSTATE 23505.
 INSERT INTO portfolio."patients" ("patient_id", "patient_code", "birth_date", "active")
