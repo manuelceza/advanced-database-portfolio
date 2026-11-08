@@ -1,4 +1,4 @@
-# Portfolio 4 — NoSQL and Advanced Data Models
+# Portfolio 4: NoSQL and Advanced Data Models
 
 I used MongoDB collection appointment_events for appointment_booked and appointment_rescheduled events. These are fictional event examples based on appointments, patients, clinicians, lab_results.
 
