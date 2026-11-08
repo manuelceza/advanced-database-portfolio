@@ -119,7 +119,7 @@ Execution Time: 0.174 ms
 
 ## Reproduce
 
-Use a fresh database with the Portfolio 1 schema and sample data. Run Olawuyi_Emmanuel_370192849_P2_Queries.sql, then Olawuyi_Emmanuel_370192849_P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
+Use a fresh database with the Portfolio 1 schema and sample data. Run P2_Queries.sql, then P2_Optimisation.sql. The optimisation script creates a separate performance table and runs EXPLAIN (ANALYZE, BUFFERS).
 
 [Query screenshot](screenshots/P2_QueryResults.png) · [Index comparison](screenshots/P2_IndexComparison.png)
 
