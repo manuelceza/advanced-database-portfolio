@@ -200,13 +200,6 @@ db.getCollection("appointment_events").aggregate([{"$group":{"_id":"$eventType",
 | appointment_booked | 1 |
 | appointment_rescheduled | 1 |
 
-## Validation and suitability
-
-MongoDB inserted 2 documents. An invalid date type was rejected with code 121 and a repeated event ID with 11000. The collection still contained 2 valid documents. The compound eventType/occurredAt index supports those access fields; this exercise does not measure its speed.
-
-The details field can vary across event types, while the common fields have a validator. Events can be added as separate documents rather than growing one large history record.
-
-
 
 ## References
 
