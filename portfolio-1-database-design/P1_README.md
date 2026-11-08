@@ -15,7 +15,7 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 
 ## Files
 
-- [Design](Olawuyi_Emmanuel_370192849_P1_Design.md)
+- [Design](P1_Design.md)
 - [ER diagram](Olawuyi_Emmanuel_370192849_P1_ERDiagram.md)
 - [Normalisation](Olawuyi_Emmanuel_370192849_P1_Normalisation.md)
 - [Schema](Olawuyi_Emmanuel_370192849_P1_Schema.sql)
