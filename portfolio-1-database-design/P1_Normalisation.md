@@ -1,4 +1,4 @@
-# Ardeliah Clinical System — normalisation
+# Ardeliah Clinical System normalisation
 
 The example uses the saved sample records. The full set of fields is in the design and schema
 
