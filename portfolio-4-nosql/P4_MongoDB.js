@@ -1,5 +1,4 @@
-// Run once in mongosh against a fresh exercise database.
-// These records are fictional events for the case study.
+
 (async function () {
   db = db.getSiblingDB('portfolio_nosql');
   if ((await db.getCollectionNames()).includes("appointment_events")) {
