@@ -10,7 +10,7 @@ My case study is Ardeliah Clinical System. I designed the database for patients,
 
 I organised the relational design into 4 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. A clinician may have at most one booked appointment at a given start time; enforce with a partial unique index on clinician_id and starts_at where status is booked. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 30 deliberately invalid inserts were rejected without changing the valid sample rows.
 
-![Ardeliah Clinical System ER diagram](images/Olawuyi_Emmanuel_370192849_ERDiagram.png)
+![Ardeliah Clinical System ER diagram](images/ERDiagram.png)
 
 Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: unique value.
 
