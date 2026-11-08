@@ -30,7 +30,7 @@ I used appointment_events for the case's event documents. MongoDB inserted 2 sam
 
 ## Repository and evidence
 
-https://github.com/manuelceza/Olawuyi_Emmanuel_370192849
+(https://github.com/manuelceza/advanced-database-portfolio.git)
 
 The portfolio folders contain the SQL and JavaScript, explanations, query plans, result tables and screenshots.
 
