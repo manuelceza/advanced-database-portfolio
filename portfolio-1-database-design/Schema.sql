@@ -1,5 +1,5 @@
--- Ardeliah Clinical System: tables, keys and business constraints.
--- Run once in a fresh PostgreSQL database.
+Ardeliah Clinical System: tables, keys and business constraints.
+  
 BEGIN;
 SET LOCAL standard_conforming_strings = on;
 CREATE SCHEMA portfolio;
