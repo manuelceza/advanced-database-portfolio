@@ -23,10 +23,6 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 - [Constraint tests](ConstraintTests.sql)
 - [Table and constraint evidence](screenshots/DatabaseResults.png)
 
-## Run the SQL
-
-Create a fresh PostgreSQL database. Run the schema first, then the sample data. Run the deliberately invalid statements in ConstraintTests.sql individually outside a transaction; each is expected to produce an error.
-
 ## References
 
 - [PostgreSQL — constraints](https://www.postgresql.org/docs/17/ddl-constraints.html)
