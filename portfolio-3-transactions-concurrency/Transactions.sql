@@ -1,5 +1,4 @@
--- This helper counter exists only in the temporary transaction exercise.
--- Original case columns and constraints are preserved. It is not part of the P1 design.
+
 ALTER TABLE portfolio."appointments" ADD COLUMN "p3_processed_count" integer NOT NULL DEFAULT 0;
 ALTER TABLE portfolio."appointments" ADD CONSTRAINT "p3_count_nonnegative" CHECK ("p3_processed_count" >= 0);
 
