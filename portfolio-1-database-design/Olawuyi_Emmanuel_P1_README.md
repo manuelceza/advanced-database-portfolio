@@ -15,13 +15,13 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 
 ## Files
 
-- [Design](Database_Design.md)
-- [ER diagram](P1_ERDiagram.md)
-- [Normalisation](P1_Normalisation.md)
-- [Schema](Schema.sql)
-- [Sample data](SampleData.sql)
-- [Constraint tests](ConstraintTests.sql)
-- [Table and constraint evidence](DatabaseResults.png)
+- [Design](Olawuyi_Emmanuel_Database_Design.md)
+- [ER diagram](Olawuyi_Emmanuel_P1_ERDiagram.md)
+- [Normalisation](Olawuyi_Emmanuel_P1_Normalisation.md)
+- [Schema](Olawuyi_Emmanuel_Schema.sql)
+- [Sample data](Olawuyi_Emmanuel_SampleData.sql)
+- [Constraint tests](Olawuyi_Emmanuel_ConstraintTests.sql)
+- [Table and constraint evidence](Olawuyi_Emmanuel_DatabaseResults.png)
 
 ## References
 
