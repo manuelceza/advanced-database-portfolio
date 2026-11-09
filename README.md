@@ -34,11 +34,11 @@ I used a temporary counter on appointments to test COMMIT, ROLLBACK and READ COM
 I used appointment_events for the case's event documents. MongoDB inserted 2 sample events and returned the expected results for 4 queries. Validation rejected an invalid date type and a duplicate event ID. Embedded snapshots keep related details with an event, while the details field can differ by event type. These are fictional events; PostgreSQL continues to enforce its relational rules.
 - [Portfolio 4](portfolio-4-nosql/)
 
-## Repository and evidence
+## Repository
 
 (https://github.com/manuelceza/advanced-database-portfolio.git)
 
-The portfolio folders contain the SQL and JavaScript, explanations, query plans, result tables and screenshots.
+The repository portfolio folders contain the SQL and JavaScript, explanations, query plans, result tables and screenshots.
 The portfolio uses fictional records for Ardeliah Clinical System.
 
 <!-- PAGE BREAK -->
