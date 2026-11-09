@@ -28,8 +28,8 @@ Both sessions first read 1. Without locking, both wrote 2 and one increment was 
 - [Transactions](Transactions.sql)
 - [Session A](P3_SessionA.sql)
 - [Session B](P3_SessionB.sql)
-- [Commit and rollback](screenshots/P3_CommitRollback.png)
-- [Concurrency](screenshots/P3_ConcurrencyResult.png)
+- [Commit and rollback](P3_CommitRollback.png)
+- [Concurrency](P3_ConcurrencyResult.png)
 
 ## References
 
