@@ -1,6 +1,8 @@
 # MIT 8103 Advanced Database Systems
 
-**Ardeliah Clinical System** · Emmanuel Olawuyi · Student ID 370192849
+**Ardeliah Clinical System** 
+· Name: Olawuyi Emmanuel Oluwaseun
+· Student ID: 370192849
 
 ## Case study
 
