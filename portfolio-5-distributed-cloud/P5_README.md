@@ -1,4 +1,4 @@
-# Ardeliah Clinical System — Portfolio 5
+# System Portfolio 5: Ardeliah Clinical 
 
 This is the proposed distributed design for the case study.
 
