@@ -117,7 +117,7 @@ Planning Time: 0.537 ms
 Execution Time: 0.174 ms
 ```
 
-[Query screenshot](screenshots/P2_QueryResults.png) · [Index comparison](screenshots/P2_IndexComparison.png)
+[Query screenshot](P2_QueryResults.png) · [Index comparison](P2_IndexComparison.png)
 
 ## References
 
