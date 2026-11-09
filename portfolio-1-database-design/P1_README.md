@@ -21,7 +21,7 @@ The 30 invalid inserts were rejected at their expected constraints, and the vali
 - [Schema](Schema.sql)
 - [Sample data](SampleData.sql)
 - [Constraint tests](ConstraintTests.sql)
-- [Table and constraint evidence](screenshots/DatabaseResults.png)
+- [Table and constraint evidence](DatabaseResults.png)
 
 ## References
 
