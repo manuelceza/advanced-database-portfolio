@@ -25,11 +25,11 @@ Both sessions first read 1. Without locking, both wrote 2 and one increment was 
 
 ## Files and order
 
-- [Transactions](Transactions.sql)
-- [Session A](P3_SessionA.sql)
-- [Session B](P3_SessionB.sql)
-- [Commit and rollback](P3_CommitRollback.png)
-- [Concurrency](P3_ConcurrencyResult.png)
+- [Transactions](Olawuyi_Emmanuel_Transactions.sql)
+- [Session A](Olawuyi_Emmanuel_P3_SessionA.sql)
+- [Session B](Olawuyi_Emmanuel_P3_SessionB.sql)
+- [Commit and rollback](Olawuyi_Emmanuel_P3_CommitRollback.png)
+- [Concurrency](Olawuyi_Emmanuel_P3_ConcurrencyResult.png)
 
 ## References
 
