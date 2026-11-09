@@ -54,7 +54,7 @@ I kept patients, clinicians, appointments, lab_results in separate tables so the
 
 ## AI-use declaration
 
-I used GitHub Copilot and the portfolio generator to help prepare the database model, scripts and explanations. The generator ran the PostgreSQL and MongoDB exercises, checked their outputs and captured the result images.  I remain responsible for checking and explaining the submitted work.
+I used GitHub Copilot to help prepare the database model, scripts and explanations. GitHub Copilot ran the PostgreSQL and MongoDB exercises, checked their outputs and captured the result images.  I remain responsible for checking and explaining the submitted work.
 
 ## References
 
