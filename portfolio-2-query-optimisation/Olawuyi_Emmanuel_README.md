@@ -117,7 +117,7 @@ Planning Time: 0.537 ms
 Execution Time: 0.174 ms
 ```
 
-[Query screenshot](Olawuyi_Emmanuel_P2_QueryResults.png) · [Index comparison](Olawuyi_Emmanuel_P2_IndexComparison.png)
+[Query screenshot](Olawuyi_Emmanuel_QueryResults.png) · [Index comparison](Olawuyi_Emmanuel_IndexComparison.png)
 
 ## References
 
